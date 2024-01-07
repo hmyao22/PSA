@@ -7,6 +7,8 @@ IEEE Transactions on Instrumentation & Measurement
 thanks for the great work：[EfficientNet](https://github.com/lukemelas/EfficientNet-PyTorch) and  [mae](https://github.com/facebookresearch/mae)
 
 if you find this repository useful, please cite our paper:
+
+
 @ARTICLE{10363401,
   author={Yao, Haiming and Luo, Wei and Lou, Jianan and Yu, Wenyong and Zhang, Xiaotian and Qiang, Zhenfeng and Shi, Hui},
   journal={IEEE Transactions on Instrumentation and Measurement}, 
